@@ -1,6 +1,6 @@
 # :wave: Hi, I'm James Carter
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="Hi there! I'm James Carter" title="Hi there! I'm James Carter"/>](#)
+[<img src="[https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif](https://cdn.discordapp.com/attachments/955384407072579594/1322828554160832512/dr9k6pr.gif?ex=67724b98&is=6770fa18&hm=e18e4602bf806f85f641a12c625578fa56e79171e610b0e1a8f58cab271b619f&)" alt="Hi there! I'm James Carter" title="Hi there! I'm James Carter"/>](#)
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=JamesCarter.JamesCarter&color=blue)
 
